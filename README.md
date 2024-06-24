@@ -1,6 +1,6 @@
 <p>
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
-</p>
-<p>
   <img src="https://private-user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTkyMzgyNjcsIm5iZiI6MTcxOTIzNzk2NywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTUzNDktN2Q0ODRkYzktNjhhOS00ZWU2LWE3NjctYWVhNTkwMzVjMTJkLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjI0VDE0MDYwN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTUxYTZiYjUzNzk5YzU1ZTVhZGFjZDFiM2ViODNkMWUzMzRmNWY5YmMzYWNiM2EwMjA1ODJjYTBiZDEyOTA4MjUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.j-Rrj4B_jz6QuSbM522bk8_fU-m5pwfF6Gb6QIVXrb0">
+</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif">
 </p>
